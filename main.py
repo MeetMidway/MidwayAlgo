@@ -9,3 +9,4 @@ class Main:
     # Continue into itinerary
     # Check with Gemini: do places fit with user preferences?
     # Recommend places near GM 
+    pass
