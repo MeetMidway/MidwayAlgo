@@ -28,7 +28,8 @@ if __name__ == '__main__':
                 "latitude": 40.91618,
                 "longitude": -73.70018
                 }
-            }
+            },
+            "radius": 500 # in meters
         }
     }
 
