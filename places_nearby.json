@@ -1,0 +1,591 @@
+[
+    {
+        "name": "Toronto",
+        "address": "Toronto",
+        "types": [
+            "locality",
+            "political"
+        ]
+    },
+    {
+        "name": "Hilton Toronto",
+        "address": "145 Richmond Street West, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Sheraton Centre Toronto Hotel",
+        "address": "123 Queen Street West, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Marriott Downtown at CF Toronto Eaton Centre",
+        "address": "525 Bay Street, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Hyatt Regency Toronto",
+        "address": "370 King Street West, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Residence Inn Toronto Downtown/Entertainment District",
+        "address": "255 Wellington Street West, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Revery Toronto Downtown, Curio Collection by Hilton",
+        "address": "92 Peter Street, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "The Strathcona Hotel",
+        "address": "60 York Street, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Shangri-La Toronto",
+        "address": "188 University Avenue, Toronto",
+        "types": [
+            "lodging",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Pantages Hotel Downtown Toronto",
+        "address": "200 Victoria Street, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Le Germain Hotel Toronto Mercer",
+        "address": "30 Mercer Street, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "The Rex Hotel Jazz and Blues Bar",
+        "address": "194 Queen Street West, Toronto",
+        "types": [
+            "lodging",
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Chestnut Residence",
+        "address": "89 Chestnut Street, Toronto",
+        "types": [
+            "university",
+            "lodging",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Sonder The Beverley",
+        "address": "335 Queen Street West, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "HOTEL OCHO",
+        "address": "195 Spadina Avenue, Toronto",
+        "types": [
+            "lodging",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "The Ritz-Carlton, Toronto",
+        "address": "181 Wellington Street West, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "InterContinental Toronto Centre, an IHG Hotel",
+        "address": "225 Front Street West, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Chelsea Hotel, Toronto",
+        "address": "33 Gerrard Street West, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "SoHo Hotel Toronto",
+        "address": "318 Wellington Street West, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Downtown Toronto",
+        "address": "Old Toronto",
+        "types": [
+            "neighborhood",
+            "political"
+        ]
+    },
+    {
+        "name": "Studio 6 Toronto ON",
+        "address": "165 Grange Avenue, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Marquis Lounge and Bistro",
+        "address": "92 Peter Street, Toronto",
+        "types": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "DoubleTree by Hilton Hotel Toronto Downtown",
+        "address": "108 Chestnut Street, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "The Alexandra Hotel",
+        "address": "77 Ryerson Avenue, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Best Buy",
+        "address": "65 Dundas Street West, Toronto",
+        "types": [
+            "electronics_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "CF Toronto Eaton Centre",
+        "address": "220 Yonge Street, Toronto",
+        "types": [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Scotiabank Theatre Toronto",
+        "address": "259 Richmond Street West, Toronto",
+        "types": [
+            "movie_theater",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Steve's Music Store",
+        "address": "415 Queen Street West, Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Art Gallery of Ontario",
+        "address": "317 Dundas Street West, Toronto",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Canadian Securities Institute (CSI)",
+        "address": "200 Wellington Street West 15th Floor, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Hudson's Bay",
+        "address": "176 Yonge Street, Toronto",
+        "types": [
+            "department_store",
+            "shoe_store",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "The Keg Steakhouse + Bar - York Street",
+        "address": "165 York Street, Toronto",
+        "types": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Staples",
+        "address": "375 University Avenue, Toronto",
+        "types": [
+            "electronics_store",
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Medcan",
+        "address": "150 York Street #1500, Toronto",
+        "types": [
+            "gym",
+            "hospital",
+            "doctor",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Horseshoe Tavern",
+        "address": "370 Queen Street West, Toronto",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Little India Restaurant",
+        "address": "255 Queen Street West, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Urban Outfitters",
+        "address": "235 Yonge Street, Toronto",
+        "types": [
+            "clothing_store",
+            "shoe_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Adega Restaurante",
+        "address": "33 Elm Street, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Volos Greek Cuisine",
+        "address": "133 Richmond Street West, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "PLANTA Queen",
+        "address": "180 Queen Street West, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "CIBC Branch with ATM",
+        "address": "100 University Avenue, Toronto",
+        "types": [
+            "bank",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Little Anthony's",
+        "address": "121 Richmond Street West, Toronto",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Groovy",
+        "address": "323 Queen Street West, Toronto",
+        "types": [
+            "shoe_store",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Donatello Restaurant",
+        "address": "37 Elm Street, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Tata Consultancy Services",
+        "address": "400 University Avenue 25th Floor, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "The UPS Store",
+        "address": "112 Elizabeth Street #5, Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Stag Shop - Adult Sex Store",
+        "address": "239 Yonge Street, Toronto",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "CIBC Branch with ATM",
+        "address": "595 Bay Street, Toronto",
+        "types": [
+            "bank",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Canadian Tire",
+        "address": "Eaton Centre, 65 Dundas Street West, Toronto",
+        "types": [
+            "department_store",
+            "car_repair",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Google Toronto - Richmond St",
+        "address": "111 Richmond Street West, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Rudd Services Ltd",
+        "address": "123 Edward Street Suite 400, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Toronto City Hall",
+        "address": "100 Queen Street West, Toronto",
+        "types": [
+            "city_hall",
+            "tourist_attraction",
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Milagro Cantina",
+        "address": "5 Mercer Street, Toronto",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "King Textiles",
+        "address": "161 Spadina Avenue, Toronto",
+        "types": [
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Vantage Venues",
+        "address": "150 King Street West, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "G Adventures",
+        "address": "19 Charlotte Street, Toronto",
+        "types": [
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "Cafe La Gaffe",
+        "address": "24 Baldwin Street, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "AnimeXtreme Inc.",
+        "address": "327 Spadina Avenue Main Floor, Toronto",
+        "types": [
+            "book_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "MEC Toronto",
+        "address": "300 Queen Street West, Toronto",
+        "types": [
+            "bicycle_store",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "name": "HOK",
+        "address": "400 University Avenue Suite 2200, Toronto",
+        "types": [
+            "local_government_office",
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+        ]
+    }
+]
