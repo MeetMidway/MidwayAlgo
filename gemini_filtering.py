@@ -2,7 +2,7 @@ import google.generativeai as gai
 import json
 import os
 
-gai.configure(api_key="AIzaSyDk8M6rDC1P8sKl6G1sS3CWjGOQLRWzPiE")
+gai.configure(api_key="")
 model = gai.GenerativeModel('gemini-1.0-pro-latest')
 user_preferences = ["food", "bar"] # -> these are jsut examples that will be variable based on what the user selects on the frontend 
 
