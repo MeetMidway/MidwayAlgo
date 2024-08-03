@@ -7,26 +7,33 @@ load_dotenv()
 GOOGLE_API_KEY = os.environ["GOOGLE_API_KEY"]
 
 
-def text_search(params):
-    print(params)
-    text_search_url = "https://maps.googleapis.com/maps/api/place/textsearch/json"
-    response = requests.get(text_search_url, params).json()
+def text_search(params, headers):
+    # print(params)
+    text_search_url = "https://places.googleapis.com/v1/places:searchText"
+    response = requests.post(url=text_search_url, json=params, headers=headers).json()
 
     return response 
 
 if __name__ == '__main__':
     params = {
-        "query": "Pizza places",
-        "key": GOOGLE_API_KEY,
+        "textQuery": "Pizza places",
         "pageSize": 2,
         "locationRestriction": {
-            "circle": {
-                "center": {
-                    "latitude": 38.897957,
-                    "longitude": -77.036560
+            "rectangle": {
+                "low": {
+                "latitude": 40.477398,
+                "longitude": -74.259087
                 },
-                "radius": 2000.0 # Distance in meters
+                "high": {
+                "latitude": 40.91618,
+                "longitude": -73.70018
+                }
             }
         }
     }
-    print(text_search(params))
+
+    headers = {
+        'X-Goog-FieldMask': 'places.displayName,places.formattedAddress',
+        'X-Goog-Api-Key': GOOGLE_API_KEY
+    }
+    print(text_search(params, headers))
