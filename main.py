@@ -22,7 +22,11 @@ class Main:
         print(f"\nGeometric Median: [{median[0]:.6f}, {median[1]:.6f}]")
 
         places_nearby = self.places.get_all_places_nearby(median)
-        places_info = [{"name": place.get("name"), "address": place.get("vicinity")} for place in places_nearby]
+        places_info = [{
+            "name": place.get("name"), 
+            "address": place.get("vicinity"),
+            "types": place.get("types")
+        }for place in places_nearby]
         
         with open('places_nearby.json', 'w') as f:
             json.dump(places_info, f, indent=4)
