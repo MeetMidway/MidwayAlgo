@@ -102,8 +102,8 @@
         "name": "The Rex Hotel Jazz and Blues Bar",
         "address": "194 Queen Street West, Toronto",
         "types": [
-            "lodging",
             "night_club",
+            "lodging",
             "bar",
             "restaurant",
             "food",
@@ -117,8 +117,8 @@
         "types": [
             "university",
             "lodging",
-            "point_of_interest",
             "store",
+            "point_of_interest",
             "establishment"
         ]
     },
@@ -321,8 +321,8 @@
         "address": "150 York Street #1500, Toronto",
         "types": [
             "gym",
-            "hospital",
             "doctor",
+            "hospital",
             "health",
             "point_of_interest",
             "establishment"
