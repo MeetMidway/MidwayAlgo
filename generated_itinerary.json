@@ -13,19 +13,6 @@
     "priority": "high"
   },
   {
-    "name": "Opera Place",
-    "address": "832 Bay St., Toronto",
-    "types": [
-      "park",
-      "tourist_attraction",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": 3.6,
-    "user_ratings_total": 5,
-    "priority": "high"
-  },
-  {
     "name": "Fred Hamilton Playground",
     "address": "155 Roxton Rd, Toronto",
     "types": [
@@ -62,33 +49,6 @@
     ],
     "rating": 4.3,
     "user_ratings_total": 713,
-    "priority": "medium"
-  },
-  {
-    "name": "Bang Sue Bar",
-    "address": "11 Charlotte St, Toronto",
-    "types": [
-      "meal_takeaway",
-      "bar",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": 4.5,
-    "user_ratings_total": 312,
-    "priority": "medium"
-  },
-  {
-    "name": "Ruby Soho",
-    "address": "587 King St W, Toronto",
-    "types": [
-      "bar",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": 4.3,
-    "user_ratings_total": 1470,
     "priority": "medium"
   }
 ]

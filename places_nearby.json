@@ -1,591 +1,3117 @@
 [
     {
-        "name": "Toronto",
-        "address": "Toronto",
+        "name": "Planet Fitness",
+        "address": "444 Yonge St Units G1 And G4, Toronto",
         "types": [
-            "locality",
-            "political"
-        ]
-    },
-    {
-        "name": "Hilton Toronto",
-        "address": "145 Richmond Street West, Toronto",
-        "types": [
-            "lodging",
+            "gym",
+            "health",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 3.9,
+        "user_ratings_total": 535
     },
     {
-        "name": "Sheraton Centre Toronto Hotel",
-        "address": "123 Queen Street West, Toronto",
+        "name": "Quik Shop Convenience",
+        "address": "119 Fort York Blvd, Toronto",
         "types": [
-            "lodging",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Marriott Downtown at CF Toronto Eaton Centre",
-        "address": "525 Bay Street, Toronto",
-        "types": [
-            "lodging",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Hyatt Regency Toronto",
-        "address": "370 King Street West, Toronto",
-        "types": [
-            "lodging",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Residence Inn Toronto Downtown/Entertainment District",
-        "address": "255 Wellington Street West, Toronto",
-        "types": [
-            "lodging",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Revery Toronto Downtown, Curio Collection by Hilton",
-        "address": "92 Peter Street, Toronto",
-        "types": [
-            "lodging",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "The Strathcona Hotel",
-        "address": "60 York Street, Toronto",
-        "types": [
-            "lodging",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Shangri-La Toronto",
-        "address": "188 University Avenue, Toronto",
-        "types": [
-            "lodging",
-            "bar",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Pantages Hotel Downtown Toronto",
-        "address": "200 Victoria Street, Toronto",
-        "types": [
-            "lodging",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Le Germain Hotel Toronto Mercer",
-        "address": "30 Mercer Street, Toronto",
-        "types": [
-            "lodging",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "The Rex Hotel Jazz and Blues Bar",
-        "address": "194 Queen Street West, Toronto",
-        "types": [
-            "night_club",
-            "lodging",
-            "bar",
-            "restaurant",
-            "food",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Chestnut Residence",
-        "address": "89 Chestnut Street, Toronto",
-        "types": [
-            "university",
-            "lodging",
+            "convenience_store",
             "store",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Sonder The Beverley",
-        "address": "335 Queen Street West, Toronto",
-        "types": [
-            "lodging",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "HOTEL OCHO",
-        "address": "195 Spadina Avenue, Toronto",
-        "types": [
-            "lodging",
-            "bar",
-            "restaurant",
             "food",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 172
     },
     {
-        "name": "The Ritz-Carlton, Toronto",
-        "address": "181 Wellington Street West, Toronto",
+        "name": "Service Canada Centre",
+        "address": "559 College St, Toronto",
         "types": [
-            "lodging",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 3.8,
+        "user_ratings_total": 390
     },
     {
-        "name": "InterContinental Toronto Centre, an IHG Hotel",
-        "address": "225 Front Street West, Toronto",
+        "name": "Stage Entertainment",
+        "address": "2 Toronto St #326, Toronto",
         "types": [
-            "lodging",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 38
     },
     {
-        "name": "Chelsea Hotel, Toronto",
-        "address": "33 Gerrard Street West, Toronto",
+        "name": "Hanlan's Point Ferry Dock",
+        "address": "Hanlan's Point Ferry Dock, Toronto",
         "types": [
-            "lodging",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 30
     },
     {
-        "name": "SoHo Hotel Toronto",
-        "address": "318 Wellington Street West, Toronto",
+        "name": "Better Living Centre",
+        "address": "195 Princes' Blvd, Toronto",
         "types": [
-            "lodging",
+            "museum",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 885
     },
     {
-        "name": "Downtown Toronto",
-        "address": "Old Toronto",
+        "name": "Ontario Place",
+        "address": "955 Lake Shore Blvd W, Toronto",
         "types": [
-            "neighborhood",
-            "political"
-        ]
-    },
-    {
-        "name": "Studio 6 Toronto ON",
-        "address": "165 Grange Avenue, Toronto",
-        "types": [
-            "lodging",
+            "park",
+            "movie_theater",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 4555
     },
     {
-        "name": "Marquis Lounge and Bistro",
-        "address": "92 Peter Street, Toronto",
+        "name": "Quik Shop Convenience",
+        "address": "119 Fort York Blvd, Toronto",
         "types": [
-            "restaurant",
-            "bar",
-            "food",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "DoubleTree by Hilton Hotel Toronto Downtown",
-        "address": "108 Chestnut Street, Toronto",
-        "types": [
-            "lodging",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "The Alexandra Hotel",
-        "address": "77 Ryerson Avenue, Toronto",
-        "types": [
-            "lodging",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Best Buy",
-        "address": "65 Dundas Street West, Toronto",
-        "types": [
-            "electronics_store",
-            "home_goods_store",
+            "convenience_store",
             "store",
+            "food",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 172
+    },
+    {
+        "name": "The Drink - Cocktail & Pizza Bar",
+        "address": "459 Church St 2nd floor, Toronto",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 657
+    },
+    {
+        "name": "Roses New York downtown",
+        "address": "135 Fort York Blvd, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 1029
+    },
+    {
+        "name": "Rabba Fine Foods",
+        "address": "9 Isabella St, Toronto",
+        "types": [
+            "grocery_or_supermarket",
+            "convenience_store",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 136
+    },
+    {
+        "name": "Fit4Less",
+        "address": "21 McCaul St, Toronto",
+        "types": [
+            "gym",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.9,
+        "user_ratings_total": 199
+    },
+    {
+        "name": "ServiceOntario",
+        "address": "839 Yonge St, Toronto",
+        "types": [
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 523
+    },
+    {
+        "name": "The Access Point",
+        "address": "145 Front St E unit 301, Toronto",
+        "types": [
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 2.2,
+        "user_ratings_total": 19
+    },
+    {
+        "name": "The Rec Room",
+        "address": "255 Bremner Blvd, Toronto",
+        "types": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 8147
+    },
+    {
+        "name": "Cecil Community Centre",
+        "address": "58 Cecil St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 123
+    },
+    {
+        "name": "Coffee shop",
+        "address": "55 Gerrard St E, Toronto",
+        "types": [
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "The Corner Place",
+        "address": "11 Jarvis St, Toronto",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 1566
+    },
+    {
+        "name": "Bistro 422",
+        "address": "422 College St, Toronto",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 270
+    },
+    {
+        "name": "Sector 17 - Indian Street Food Eatery",
+        "address": "268 Dundas St E, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 367
+    },
+    {
+        "name": "Perfect Central Location!",
+        "address": "576 Front St W, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Circle K",
+        "address": "144 Dundas St W, Toronto",
+        "types": [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 2.7,
+        "user_ratings_total": 56
+    },
+    {
+        "name": "ServiceOntario",
+        "address": "846 Dundas St W, Toronto",
+        "types": [
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 422
+    },
+    {
+        "name": "Superpoint",
+        "address": "184 Ossington Ave, Toronto",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 1054
+    },
+    {
+        "name": "Stop'n Shop",
+        "address": "949 Bloor St W, Toronto",
+        "types": [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.9,
+        "user_ratings_total": 10
+    },
+    {
+        "name": "Next Level Entertainment",
+        "address": "866 Bloor St W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 66
     },
     {
         "name": "CF Toronto Eaton Centre",
-        "address": "220 Yonge Street, Toronto",
+        "address": "220 Yonge St, Toronto",
         "types": [
             "shopping_mall",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 52076
     },
     {
-        "name": "Scotiabank Theatre Toronto",
-        "address": "259 Richmond Street West, Toronto",
+        "name": "City Place",
+        "address": "15 Iceboat Terr, Toronto",
         "types": [
-            "movie_theater",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 11
     },
     {
-        "name": "Steve's Music Store",
-        "address": "415 Queen Street West, Toronto",
+        "name": "ANOTHER BAR",
+        "address": "926 Bloor St W, Toronto",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 333
+    },
+    {
+        "name": "Yorkville Luxe High-End Prime Downtown Location",
+        "address": "155 Yorkville Ave, Toronto",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "LOCAL Public Eatery Liberty Village",
+        "address": "171 E Liberty St, Toronto",
+        "types": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 2820
+    },
+    {
+        "name": "Levol Convenience Food Mart",
+        "address": "606 Dundas St W, Toronto",
+        "types": [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.5,
+        "user_ratings_total": 22
+    },
+    {
+        "name": "Serv Agency",
+        "address": "1 University Ave Suite 300, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 11
+    },
+    {
+        "name": "Capital Entertainment Toronto",
+        "address": "2 Toronto St #326a, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.5,
+        "user_ratings_total": 8
+    },
+    {
+        "name": "This Must be The Place",
+        "address": "1294 Queen St W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Points.com Inc.",
+        "address": "111 Richmond St W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 15
+    },
+    {
+        "name": "Centre Place",
+        "address": "101-320 Richmond St E, Toronto",
+        "types": [
+            "night_club",
+            "bar",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 21
+    },
+    {
+        "name": "Sherbourne Variety & Gift",
+        "address": "545 Sherbourne St, Toronto",
         "types": [
             "store",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 15
     },
     {
-        "name": "Art Gallery of Ontario",
-        "address": "317 Dundas Street West, Toronto",
+        "name": "Big Trouble",
+        "address": "460 Dundas St W 2nd floor, Toronto",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 713
+    },
+    {
+        "name": "Enterprise Rent-A-Car",
+        "address": "120 Lynn Williams St, Toronto",
+        "types": [
+            "car_rental",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 285
+    },
+    {
+        "name": "Tut's Egyptian Street Food",
+        "address": "567 King St W, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 1706
+    },
+    {
+        "name": "Official Documents Services",
+        "address": "222 Jarvis St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 119
+    },
+    {
+        "name": "Steven's Grocery",
+        "address": "990 Bathurst St, Toronto",
+        "types": [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 40
+    },
+    {
+        "name": "X.Ray Magic and Illusions",
+        "address": "295 Adelaide St W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.9,
+        "user_ratings_total": 93
+    },
+    {
+        "name": "Souvlaki Place",
+        "address": "495 Bloor St W, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 111
+    },
+    {
+        "name": "Toronto Island Park - Hanlan's Point",
+        "address": "Lakeshore Ave #464, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 103
+    },
+    {
+        "name": "Booboo's Shop",
+        "address": "17 Beatrice St, Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Hillcrest Community Centre",
+        "address": "1339 Bathurst St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 63
+    },
+    {
+        "name": "Bang Sue Bar",
+        "address": "11 Charlotte St, Toronto",
+        "types": [
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 312
+    },
+    {
+        "name": "Toronto Yachts - East Location",
+        "address": "11 Polson St, Toronto",
+        "types": [
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 84
+    },
+    {
+        "name": "Renegade Chicken Toronto",
+        "address": "73 Front St E, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 56
+    },
+    {
+        "name": "ServiceOntario",
+        "address": "33 Victoria St Unit 150, Toronto",
+        "types": [
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 481
+    },
+    {
+        "name": "Rebel",
+        "address": "11 Polson St First Floor, Toronto",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.7,
+        "user_ratings_total": 2729
+    },
+    {
+        "name": "P's place",
+        "address": "40 Gerrard St E, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Turning Point Youth Services",
+        "address": "95 Wellesley St E, Toronto",
+        "types": [
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 2.3,
+        "user_ratings_total": 12
+    },
+    {
+        "name": "Hasty market",
+        "address": "161 Church St, Toronto",
+        "types": [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 35
+    },
+    {
+        "name": "Love Shop - Adult Novelty & Sex Toys",
+        "address": "481 Church St, Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 60
+    },
+    {
+        "name": "Enercare Centre",
+        "address": "100 Princes' Blvd #1, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 5114
+    },
+    {
+        "name": "Ruby Soho",
+        "address": "587 King St W, Toronto",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 1470
+    },
+    {
+        "name": "Enterprise Rent-A-Car",
+        "address": "2 Bloor St E Unit C60, Toronto",
+        "types": [
+            "car_rental",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.8,
+        "user_ratings_total": 220
+    },
+    {
+        "name": "Service Canada Centre - Passport Services",
+        "address": "74 Victoria St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 2.7,
+        "user_ratings_total": 31
+    },
+    {
+        "name": "Toronto Trigger Point Massage",
+        "address": "27 Tyndall Ave #2, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 15
+    },
+    {
+        "name": "Harbourview Convenience",
+        "address": "14 Harbour St, Toronto",
+        "types": [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 44
+    },
+    {
+        "name": "Goldline Entertainment",
+        "address": "12 York St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 57
+    },
+    {
+        "name": "Shawarma West",
+        "address": "746 Queen St W, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 802
+    },
+    {
+        "name": "CityPlace",
+        "address": "Toronto",
+        "types": [
+            "neighborhood",
+            "political"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Beanfield Centre",
+        "address": "105 Princes' Blvd, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 469
+    },
+    {
+        "name": "Shop404",
+        "address": "160 Baldwin St unit 6, Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 653
+    },
+    {
+        "name": "Bar Hop",
+        "address": "391 King St W, Toronto",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 2080
+    },
+    {
+        "name": "Avis Car Rental",
+        "address": "BCE, 161 Bay St. Unit 140, Toronto",
+        "types": [
+            "car_rental",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 2.9,
+        "user_ratings_total": 293
+    },
+    {
+        "name": "Wellesley Place Employment & Social Services",
+        "address": "111 Wellesley St E, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 96
+    },
+    {
+        "name": "Inertia Entertainment",
+        "address": "1197 Dundas St W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 2
+    },
+    {
+        "name": "Garrison Point Condos",
+        "address": "30 Ordnance St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 16
+    },
+    {
+        "name": "Pop - Up Shop",
+        "address": "Toronto",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 1
+    },
+    {
+        "name": "Town Star Food Mart",
+        "address": "599 Church St, Toronto",
+        "types": [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 14
+    },
+    {
+        "name": "Opera Place",
+        "address": "832 Bay St., Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.6,
+        "user_ratings_total": 5
+    },
+    {
+        "name": "Alexandra Park Community Centre",
+        "address": "105 Grange Ct, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 47
+    },
+    {
+        "name": "Java House",
+        "address": "537 Queen St W, Toronto",
+        "types": [
+            "restaurant",
+            "cafe",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 1153
+    },
+    {
+        "name": "ZERO Cocktail Bar, Tasting Room & Bottle Shop",
+        "address": "223 Carlton St., Toronto",
+        "types": [
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.9,
+        "user_ratings_total": 14
+    },
+    {
+        "name": "Pirate Taxi - Spadina Ave./Rees St. Location",
+        "address": "375 Queens Quay W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 169
+    },
+    {
+        "name": "Ministry of Community and Social Services",
+        "address": "111 Wellesley St E, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.2,
+        "user_ratings_total": 5
+    },
+    {
+        "name": "All The Craze Entertainment",
+        "address": "585 Dundas St E, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 47
+    },
+    {
+        "name": "Harbour Point Residence",
+        "address": "250 Queens Quay W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 2
+    },
+    {
+        "name": "Harbourfront Centre",
+        "address": "235 Queens Quay W, Toronto",
         "types": [
             "tourist_attraction",
             "museum",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 20138
     },
     {
-        "name": "Canadian Securities Institute (CSI)",
-        "address": "200 Wellington Street West 15th Floor, Toronto",
+        "name": "Love Shop - Adult Novelty & Sex Toys",
+        "address": "439 Queen St W Unit #2, Toronto",
         "types": [
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Hudson's Bay",
-        "address": "176 Yonge Street, Toronto",
-        "types": [
-            "department_store",
-            "shoe_store",
-            "clothing_store",
             "store",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 38
     },
     {
-        "name": "The Keg Steakhouse + Bar - York Street",
-        "address": "165 York Street, Toronto",
+        "name": "Hasty Market",
+        "address": "129 Bremner Blvd, Toronto",
         "types": [
-            "restaurant",
-            "bar",
+            "convenience_store",
+            "grocery_or_supermarket",
+            "store",
             "food",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 3.2,
+        "user_ratings_total": 35
     },
     {
-        "name": "Staples",
-        "address": "375 University Avenue, Toronto",
+        "name": "The Fry",
+        "address": "524 Bloor St W, Toronto",
         "types": [
-            "electronics_store",
-            "furniture_store",
-            "home_goods_store",
-            "store",
+            "restaurant",
+            "food",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 2293
     },
     {
-        "name": "Medcan",
-        "address": "150 York Street #1500, Toronto",
+        "name": "King Place Resturant",
+        "address": "203 Dundas St E, Toronto",
         "types": [
-            "gym",
-            "doctor",
-            "hospital",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 40
+    },
+    {
+        "name": "ARC361Y1 Studio Location",
+        "address": "251 Macpherson Ave, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 1
+    },
+    {
+        "name": "Reposado Bar & Lounge",
+        "address": "136 Ossington Ave, Toronto",
+        "types": [
+            "bar",
+            "night_club",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 786
+    },
+    {
+        "name": "Ontario Digital Service",
+        "address": "595 Bay St. Suite 1002, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 1,
+        "user_ratings_total": 1
+    },
+    {
+        "name": "Peep Show",
+        "address": "545 Yonge St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 2
+    },
+    {
+        "name": "Transformation Point",
+        "address": "30 Gloucester St, Toronto",
+        "types": [
             "health",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 5,
+        "user_ratings_total": 5
     },
     {
-        "name": "Horseshoe Tavern",
-        "address": "370 Queen Street West, Toronto",
+        "name": "Regent Park Community Centre",
+        "address": "402 Shuter St, Toronto",
         "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 529
+    },
+    {
+        "name": "B & J Trading",
+        "address": "376 Spadina Ave., Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 80
+    },
+    {
+        "name": "Jankie's Place",
+        "address": "985 Bloor St W, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 10
+    },
+    {
+        "name": "Ozzy's Burgers Toronto",
+        "address": "66 Nassau St Unit 1/2, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 2910
+    },
+    {
+        "name": "Rabba Fine Foods",
+        "address": "148 Wellesley St E, Toronto",
+        "types": [
+            "grocery_or_supermarket",
+            "convenience_store",
+            "supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.9,
+        "user_ratings_total": 268
+    },
+    {
+        "name": "Pirate Taxi Toronto - Harbourfront Centre Location",
+        "address": "235 Queens Quay W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 211
+    },
+    {
+        "name": "Locals Only",
+        "address": "589 King St W, Toronto",
+        "types": [
+            "meal_takeaway",
             "bar",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Little India Restaurant",
-        "address": "255 Queen Street West, Toronto",
-        "types": [
             "restaurant",
             "food",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 1048
     },
     {
-        "name": "Urban Outfitters",
-        "address": "235 Yonge Street, Toronto",
-        "types": [
-            "clothing_store",
-            "shoe_store",
-            "home_goods_store",
-            "store",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Adega Restaurante",
-        "address": "33 Elm Street, Toronto",
-        "types": [
-            "restaurant",
-            "food",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Volos Greek Cuisine",
-        "address": "133 Richmond Street West, Toronto",
-        "types": [
-            "restaurant",
-            "food",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "PLANTA Queen",
-        "address": "180 Queen Street West, Toronto",
-        "types": [
-            "restaurant",
-            "food",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "CIBC Branch with ATM",
-        "address": "100 University Avenue, Toronto",
-        "types": [
-            "bank",
-            "finance",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Little Anthony's",
-        "address": "121 Richmond Street West, Toronto",
-        "types": [
-            "bar",
-            "restaurant",
-            "food",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Groovy",
-        "address": "323 Queen Street West, Toronto",
-        "types": [
-            "shoe_store",
-            "clothing_store",
-            "store",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Donatello Restaurant",
-        "address": "37 Elm Street, Toronto",
-        "types": [
-            "restaurant",
-            "food",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Tata Consultancy Services",
-        "address": "400 University Avenue 25th Floor, Toronto",
+        "name": "Alibi Entertainment Inc",
+        "address": "559 College St, Toronto",
         "types": [
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 10
     },
     {
-        "name": "The UPS Store",
-        "address": "112 Elizabeth Street #5, Toronto",
-        "types": [
-            "store",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Stag Shop - Adult Sex Store",
-        "address": "239 Yonge Street, Toronto",
-        "types": [
-            "clothing_store",
-            "store",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "CIBC Branch with ATM",
-        "address": "595 Bay Street, Toronto",
-        "types": [
-            "bank",
-            "finance",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Canadian Tire",
-        "address": "Eaton Centre, 65 Dundas Street West, Toronto",
-        "types": [
-            "department_store",
-            "car_repair",
-            "home_goods_store",
-            "store",
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Google Toronto - Richmond St",
-        "address": "111 Richmond Street West, Toronto",
+        "name": "St. Stephen's Community House",
+        "address": "91 Bellevue Ave, Toronto",
         "types": [
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 5
     },
     {
-        "name": "Rudd Services Ltd",
-        "address": "123 Edward Street Suite 400, Toronto",
+        "name": "View Point",
+        "address": "2 Polson St, Toronto",
         "types": [
-            "point_of_interest",
-            "establishment"
-        ]
-    },
-    {
-        "name": "Toronto City Hall",
-        "address": "100 Queen Street West, Toronto",
-        "types": [
-            "city_hall",
             "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 5
+    },
+    {
+        "name": "BLS International Services Canada",
+        "address": "91 Oxford St #1, Toronto",
+        "types": [
             "local_government_office",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 10794
     },
     {
-        "name": "Milagro Cantina",
-        "address": "5 Mercer Street, Toronto",
+        "name": "Notre Place Monument",
+        "address": "Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 5
+    },
+    {
+        "name": "Burgers n' Fries Forever",
+        "address": "106 John St Unit 2, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 1287
+    },
+    {
+        "name": "Sam\u2019s Food Stores",
+        "address": "339 College St, Toronto",
+        "types": [
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 261
+    },
+    {
+        "name": "Love Shop - Adult Novelty & Sex Toys",
+        "address": "500 Yonge St, Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 1
+    },
+    {
+        "name": "Orangetheory Fitness",
+        "address": "160 Bloor St E Suite 100, Toronto",
+        "types": [
+            "gym",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 140
+    },
+    {
+        "name": "Baby's Cabaret",
+        "address": "563 Queen St W, Toronto",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 10
+    },
+    {
+        "name": "The Trigger Point",
+        "address": "344 Bloor St W #605, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.9,
+        "user_ratings_total": 33
+    },
+    {
+        "name": "Place of Memory",
+        "address": "Toronto",
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Trinity Community Recreation Centre",
+        "address": "155 Crawford St, Toronto",
+        "types": [
+            "gym",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 262
+    },
+    {
+        "name": "Wide Open",
+        "address": "139A Spadina Ave., Toronto",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 852
+    },
+    {
+        "name": "ACCES Employment",
+        "address": "489 College St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.7,
+        "user_ratings_total": 149
+    },
+    {
+        "name": "The Burger's Priest",
+        "address": "212 Adelaide St W, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 3442
+    },
+    {
+        "name": "Neighbors Convenience Market",
+        "address": "446 Adelaide St E, Toronto",
+        "types": [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.9,
+        "user_ratings_total": 21
+    },
+    {
+        "name": "Plaza 100 Tuck Shop",
+        "address": "100 Wellesley St E #107, Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 9
+    },
+    {
+        "name": "Western Union Agent Location",
+        "address": "617 Yonge St, Toronto",
+        "types": [
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.9,
+        "user_ratings_total": 12
+    },
+    {
+        "name": "Carol Priest Entertainment",
+        "address": "200 Concord Ave, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 31
+    },
+    {
+        "name": "My Own Place",
+        "address": "260 Sackville St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Chester Hill Lookout",
+        "address": "Chester Hill Rd, Toronto",
+        "types": [
+            "tourist_attraction",
+            "landmark",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 1223
+    },
+    {
+        "name": "Ministry of Community & Social Services",
+        "address": "438 University Ave, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 1.8,
+        "user_ratings_total": 6
+    },
+    {
+        "name": "John Innes Community Recreation Centre",
+        "address": "150 Sherbourne St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.8,
+        "user_ratings_total": 152
+    },
+    {
+        "name": "Teller's Bistro & Bar",
+        "address": "1 King St W #1A, Toronto",
+        "types": [
+            "bar",
+            "night_club",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 300
+    },
+    {
+        "name": "Botl Shop",
+        "address": "322 Bathurst St, Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 2
+    },
+    {
+        "name": "Howard's Convenience store",
+        "address": "407 Bleecker St, Toronto",
+        "types": [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.8,
+        "user_ratings_total": 20
+    },
+    {
+        "name": "Shawarma Q",
+        "address": "987 Bay St., Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 561
+    },
+    {
+        "name": "UPS Access Point location",
+        "address": "225 Wellesley St E Unit 14, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 1
+    },
+    {
+        "name": "A & O new place",
+        "address": "44 St Joseph St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 1
+    },
+    {
+        "name": "Centre Point East",
+        "address": "201 Sherbourne St #2103, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 1
+    },
+    {
+        "name": "Toronto Centre of Learning & Development",
+        "address": "540 Dundas St E, Toronto",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 4
+    },
+    {
+        "name": "Social Services Offices",
+        "address": "111 Wellesley St E, Toronto",
+        "types": [
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 9
+    },
+    {
+        "name": "INK Entertainment Group",
+        "address": "144 Bloor St W 7th Floor, Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.6,
+        "user_ratings_total": 36
+    },
+    {
+        "name": "Rhum Corner",
+        "address": "926 Dundas St W, Toronto",
+        "types": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 631
+    },
+    {
+        "name": "Better Gift Shop",
+        "address": "558 Dundas St W, Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 41
+    },
+    {
+        "name": "Hasty Market",
+        "address": "557 Church St, Toronto",
+        "types": [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 2.7,
+        "user_ratings_total": 40
+    },
+    {
+        "name": "Pita Land",
+        "address": "720 Spadina Ave., Toronto",
+        "types": [
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 449
+    },
+    {
+        "name": "Village Rehab Team - Liberty Village Location",
+        "address": "171 E Liberty St Unit 102, Toronto",
+        "types": [
+            "physiotherapist",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 675
+    },
+    {
+        "name": "Colaba Junction - Brookfield Place",
+        "address": "Brookfield place, 181 Bay St. unit c 140, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 49
+    },
+    {
+        "name": "Hanlan's Point Ferry Dock",
+        "address": "Toronto",
+        "types": [
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 30
+    },
+    {
+        "name": "SEVA Cleaning services",
+        "address": "77 Shuter St, Toronto",
+        "types": [
+            "laundry",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.9,
+        "user_ratings_total": 31
+    },
+    {
+        "name": "One Yonge Community Recreation Centre",
+        "address": "24 Freeland St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 66
+    },
+    {
+        "name": "PSP Entertainment",
+        "address": "70 Distillery Lane, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 5
+    },
+    {
+        "name": "Lucky's Trading Co. Ltd.",
+        "address": "427 Spadina Ave., Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 4
+    },
+    {
+        "name": "d|bar",
+        "address": "60 Yorkville Ave, Toronto",
+        "types": [
+            "restaurant",
+            "cafe",
+            "bar",
+            "night_club",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 743
+    },
+    {
+        "name": "Our Place Drop in Centre",
+        "address": "2A Elm St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Azale Convenience",
+        "address": "670 College St, Toronto",
+        "types": [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.4,
+        "user_ratings_total": 15
+    },
+    {
+        "name": "The University Club of Toronto",
+        "address": "380 University Ave, Toronto",
+        "types": [
+            "gym",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 146
+    },
+    {
+        "name": "Hero Certified Burgers",
+        "address": "79A Yonge St, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 1061
+    },
+    {
+        "name": "Entrepreneurs Point",
+        "address": "117 Peter St #202-203, Toronto",
+        "types": [
+            "real_estate_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 8
+    },
+    {
+        "name": "STELLA LIVE ENTERTAINMENT",
+        "address": "105 George St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 2
+    },
+    {
+        "name": "Nationwide Maintenance Systems",
+        "address": "217 Bellwoods Ave, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 1
+    },
+    {
+        "name": "St. Lawrence Community Recreation Centre",
+        "address": "230 The Esplanade, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 183
+    },
+    {
+        "name": "Sunny Gift Shop",
+        "address": "30 Carlton St., Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 28
+    },
+    {
+        "name": "Char No.5 Whisky & Cocktail Lounge",
+        "address": "75 Lower Simcoe St, Toronto",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 178
+    },
+    {
+        "name": "Trailhead Place",
+        "address": "Ontario Pl Blvd, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 7
+    },
+    {
+        "name": "Aisle 24 Market",
+        "address": "21 Lawren Harris Square, Toronto",
+        "types": [
+            "grocery_or_supermarket",
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.4,
+        "user_ratings_total": 35
+    },
+    {
+        "name": "Points International Ltd",
+        "address": "171 John St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Orangetheory Fitness",
+        "address": "40 University Ave, Toronto",
+        "types": [
+            "gym",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 56
+    },
+    {
+        "name": "Fran's Restaurant",
+        "address": "200 Victoria St, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 3747
+    },
+    {
+        "name": "Long-Term Care Homes and Services",
+        "address": "55 John St, Toronto",
+        "types": [
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 1
+    },
+    {
+        "name": "Side One Entertainment",
+        "address": "21 Grand Magazine St #1305, Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 6
+    },
+    {
+        "name": "Wellesley Community Centre",
+        "address": "495 Sherbourne St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 558
+    },
+    {
+        "name": "Done Right Inn",
+        "address": "861 Queen St W, Toronto",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 314
+    },
+    {
+        "name": "Canadian Naturalist",
+        "address": "220 Yonge St H010, Toronto",
+        "types": [
+            "jewelry_store",
+            "grocery_or_supermarket",
+            "clothing_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.1,
+        "user_ratings_total": 151
+    },
+    {
+        "name": "Food Court & Shop Entrance (Simcoe Place)",
+        "address": "200 Front St W, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 2
+    },
+    {
+        "name": "Point north capital",
+        "address": "Brookfield Place, Suite 2300, 161 Bay Street TD Canada Trust Tower, Toronto",
+        "types": [
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "UPS Access Point location",
+        "address": "275 Dundas St W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 2.9,
+        "user_ratings_total": 11
+    },
+    {
+        "name": "SSM Employment",
+        "address": "16 Bonnycastle St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Moss Park Discount Store",
+        "address": "216 Queen St E, Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.6,
+        "user_ratings_total": 9
+    },
+    {
+        "name": "Entertainment District",
+        "address": "The PATH - Skywalk, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 6
+    },
+    {
+        "name": "Roywoods",
+        "address": "121 Fort York Blvd, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 1053
+    },
+    {
+        "name": "Waterfront Neighbourhood Centre",
+        "address": "627 Queens Quay W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 310
+    },
+    {
+        "name": "Spacing Store",
+        "address": "401 Richmond St W, Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 196
+    },
+    {
+        "name": "Super Bargain",
+        "address": "441 Parliament St, Toronto",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 156
+    },
+    {
+        "name": "Nathan Phillips Square",
+        "address": "100 Queen St W, Toronto",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 36170
+    },
+    {
+        "name": "UPS Access Point location",
+        "address": "15 Bruyeres Mews, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 3
+    },
+    {
+        "name": "Canada-Streams Immigration & Consulting Services",
+        "address": "21 Iceboat Terr, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 49
+    },
+    {
+        "name": "Shop Shop Convenience",
+        "address": "52 Bathurst St, Toronto",
+        "types": [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 13
+    },
+    {
+        "name": "Wildly Delicious Fine Foods - Distillery District Location",
+        "address": "11 Tank House Lane, Toronto",
+        "types": [
+            "cafe",
+            "grocery_or_supermarket",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 251
+    },
+    {
+        "name": "Mysteriously Yours Mystery Dinner Theatre",
+        "address": "at Chelsea Hotel, 33 Gerrard St W, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 249
+    },
+    {
+        "name": "Fat Bastard Burrito Co.",
+        "address": "351 Bremner Blvd, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 871
+    },
+    {
+        "name": "Chinatown Centre",
+        "address": "222 Spadina Ave., Toronto",
+        "types": [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.6,
+        "user_ratings_total": 2557
+    },
+    {
+        "name": "POINT Biopharma Corp.",
+        "address": "700 University Ave Rm. 103, Toronto",
+        "types": [
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Blue Banana Market",
+        "address": "250 Augusta Ave, Toronto",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 1448
+    },
+    {
+        "name": "The Green Room",
+        "address": "414 College St, Toronto",
         "types": [
             "bar",
             "restaurant",
             "food",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 836
     },
     {
-        "name": "King Textiles",
-        "address": "161 Spadina Avenue, Toronto",
+        "name": "Correctional Service Canada",
+        "address": "180 Dundas St W #200, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Cinesphere Theatre",
+        "address": "955 Lake Shore Blvd W, Toronto",
+        "types": [
+            "movie_theater",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 845
+    },
+    {
+        "name": "INS MARKET",
+        "address": "165 King St E, Toronto",
+        "types": [
+            "convenience_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 4
+    },
+    {
+        "name": "Western Union Agent Location",
+        "address": "Money Mart, 1220 King St W, Toronto",
+        "types": [
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 21
+    },
+    {
+        "name": "DJ-E ENTERTAINMENT",
+        "address": "80 Bloor St W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "G Lounge Food Truck",
+        "address": "105 Spadina Ave., Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.9,
+        "user_ratings_total": 30
+    },
+    {
+        "name": "Scadding Court Community Centre",
+        "address": "707 Dundas St W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 225
+    },
+    {
+        "name": "Simcoe Shoppe The",
+        "address": "870 Bathurst St, Toronto",
         "types": [
             "furniture_store",
             "home_goods_store",
             "store",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 5,
+        "user_ratings_total": 1
     },
     {
-        "name": "Vantage Venues",
-        "address": "150 King Street West, Toronto",
+        "name": "Pennies",
+        "address": "127 Strachan Ave, Toronto",
         "types": [
+            "bar",
+            "restaurant",
+            "food",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 1906
     },
     {
-        "name": "G Adventures",
-        "address": "19 Charlotte Street, Toronto",
+        "name": "Aisle 24 Market",
+        "address": "310 Richmond St W, Toronto",
         "types": [
-            "travel_agency",
+            "grocery_or_supermarket",
+            "convenience_store",
+            "store",
+            "food",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 21
     },
     {
-        "name": "Cafe La Gaffe",
-        "address": "24 Baldwin Street, Toronto",
+        "name": "RUDY",
+        "address": "69 Duncan St, Toronto",
         "types": [
             "restaurant",
             "food",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 1062
     },
     {
-        "name": "AnimeXtreme Inc.",
-        "address": "327 Spadina Avenue Main Floor, Toronto",
+        "name": "222 Bar",
+        "address": "222 Ossington Ave, Toronto",
         "types": [
-            "book_store",
-            "home_goods_store",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 85
+    },
+    {
+        "name": "Popeyes Louisiana Kitchen",
+        "address": "208 Queens Quay W # 5-6, Toronto",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.7,
+        "user_ratings_total": 944
+    },
+    {
+        "name": "Pam McConnell Aquatic Centre",
+        "address": "640 Dundas St E, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 930
+    },
+    {
+        "name": "Huron Street Playground",
+        "address": "495 Huron St, Toronto",
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 55
+    },
+    {
+        "name": "Riverdale Park East",
+        "address": "550 Broadview Ave, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 5266
+    },
+    {
+        "name": "Central YMCA",
+        "address": "20 Grosvenor St, Toronto",
+        "types": [
+            "gym",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.6,
+        "user_ratings_total": 225
+    },
+    {
+        "name": "Sackville Playground",
+        "address": "420 King St E, Toronto",
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 149
+    },
+    {
+        "name": "Project Bookmark Canada Bookmark #1: In the Skin of a Lion, by Michael Ondaatje",
+        "address": "Playter Gardens, 1M8,, 4 Cambridge Ave, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 6
+    },
+    {
+        "name": "Harbour Square Park",
+        "address": "25 Queens Quay W, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 4118
+    },
+    {
+        "name": "Toronto Trinity Pool",
+        "address": "155 Crawford St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 11
+    },
+    {
+        "name": "Bright Street Playground",
+        "address": "50 Bright St, Toronto",
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 15
+    },
+    {
+        "name": "Landmark Forum",
+        "address": "184 Front St E #802, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 112
+    },
+    {
+        "name": "Riverdale Park West",
+        "address": "375 Sumach St, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 1459
+    },
+    {
+        "name": "Alex Duff Memorial Pool",
+        "address": "779 Crawford St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 211
+    },
+    {
+        "name": "St. Andrew's Playground Park",
+        "address": "450 Adelaide St W, Toronto",
+        "types": [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 252
+    },
+    {
+        "name": "Leader Lane",
+        "address": "11 Leader Ln, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Grange Park",
+        "address": "Beverley St & McCaul Street, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 2746
+    },
+    {
+        "name": "Saucy Meats",
+        "address": "628 Fleet St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "St. James Park Playground",
+        "address": "70 Jarvis St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 38
+    },
+    {
+        "name": "Redrocket Lane",
+        "address": "441 Bloor St E, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Bickford Park",
+        "address": "400 Grace St, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 664
+    },
+    {
+        "name": "Regent Park Athletic Grounds",
+        "address": "480 Shuter St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 263
+    },
+    {
+        "name": "Skey Lane",
+        "address": "1 Skey Ln, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "David Crombie Park Playground",
+        "address": "235 The Esplanade, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 7
+    },
+    {
+        "name": "Coronation Park",
+        "address": "711 Lake Shore Blvd W, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 2379
+    },
+    {
+        "name": "Toronto Metropolitan University Recreation and Athletic Centre.",
+        "address": "50 Gould St, Toronto",
+        "types": [
+            "gym",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 151
+    },
+    {
+        "name": "Woodcliffe Landmark Properties",
+        "address": "80 Portland St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 1
+    },
+    {
+        "name": "Stanley Park Playground",
+        "address": "King St W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 38
+    },
+    {
+        "name": "Berczy Park",
+        "address": "35 Wellington St E, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 3726
+    },
+    {
+        "name": "William James Lane",
+        "address": "252 Major St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 1
+    },
+    {
+        "name": "Alexandra Park Outdoor Pool",
+        "address": "275 Bathurst St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 85
+    },
+    {
+        "name": "Allan Gardens Playground",
+        "address": "19 Horticultural Ave, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 155
+    },
+    {
+        "name": "Ramsden Park",
+        "address": "1020 Yonge St & Ramsden Park Rd, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 1527
+    },
+    {
+        "name": "Toronto DownTown",
+        "address": "73 Yonge St #59, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 2
+    },
+    {
+        "name": "Regent Park Playground",
+        "address": "415 Gerrard St E, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 1
+    },
+    {
+        "name": "West End YMCA",
+        "address": "931 College St, Toronto",
+        "types": [
+            "gym",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.7,
+        "user_ratings_total": 208
+    },
+    {
+        "name": "Galvao Lane",
+        "address": "24 Ulster St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "St. James Park",
+        "address": "120 King St E, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 1834
+    },
+    {
+        "name": "City Clubhouse Pool",
+        "address": "141 St George St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Cawthra Playground",
+        "address": "355 Albany Ave, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 25
+    },
+    {
+        "name": "Aileen Robertson Lane",
+        "address": "9 Rathnelly Ave, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Christie Pits Park",
+        "address": "750 Bloor St W, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 4957
+    },
+    {
+        "name": "Rees Street Parkette",
+        "address": "238 Queens Quay W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 6
+    },
+    {
+        "name": "Cooper Koo Family YMCA",
+        "address": "461 Cherry St, Toronto",
+        "types": [
+            "gym",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 298
+    },
+    {
+        "name": "Alley Cat Lane",
+        "address": "138b Alley Cat Ln, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Grange Park Playground",
+        "address": "Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 4
+    },
+    {
+        "name": "Queen's Park",
+        "address": "110 Wellesley St W, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 4164
+    },
+    {
+        "name": "Harrison Pool",
+        "address": "15 Stephanie St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.9,
+        "user_ratings_total": 54
+    },
+    {
+        "name": "Lime Ridge Monument",
+        "address": "Toronto",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.4,
+        "user_ratings_total": 16
+    },
+    {
+        "name": "Forsythia Playground",
+        "address": "500 Wellesley St E, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 12
+    },
+    {
+        "name": "Indoor Pool",
+        "address": "707 Dundas St W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Underpass Park",
+        "address": "29 Lower River Street, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 1028
+    },
+    {
+        "name": "Historical plaque of Cathedral of St. Alban-the-Martyr",
+        "address": "111 Howland Ave, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 2
+    },
+    {
+        "name": "Little Norway Playground",
+        "address": "Little Norway Park, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 6
+    },
+    {
+        "name": "SPOKEHA\u00dcS",
+        "address": "70 Dan Leckie Way, Toronto",
+        "types": [
+            "gym",
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 206
+    },
+    {
+        "name": "McFarrens Lane",
+        "address": "107 Sherbourne St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Village of Yorkville Park",
+        "address": "115 Cumberland St, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 1970
+    },
+    {
+        "name": "Casa Loma",
+        "address": "120 Front St W, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Fred Hamilton Playground",
+        "address": "155 Roxton Rd, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 306
+    },
+    {
+        "name": "Sid Smith Artificial Ice Rink",
+        "address": "777 Crawford St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 50
+    },
+    {
+        "name": "Vermont Square Park",
+        "address": "819 Palmerston Ave, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 349
+    },
+    {
+        "name": "Hillcrest Park Children Playground",
+        "address": "950 Davenport Rd, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4,
+        "user_ratings_total": 3
+    },
+    {
+        "name": "Heritage Toronto Plaque: James Mink 1797-1868",
+        "address": "50 Adelaide St E, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 1
+    },
+    {
+        "name": "Spiritleaf Little Italy, Free Same-Day Cannabis Delivery",
+        "address": "542 College St, Toronto",
+        "types": [
             "store",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 160
     },
     {
-        "name": "MEC Toronto",
-        "address": "300 Queen Street West, Toronto",
+        "name": "Trinity Bellwoods Park",
+        "address": "790 Queen St W, Toronto",
         "types": [
-            "bicycle_store",
-            "clothing_store",
-            "store",
+            "park",
+            "tourist_attraction",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 8659
     },
     {
-        "name": "HOK",
-        "address": "400 University Avenue Suite 2200, Toronto",
+        "name": "The Home Children Plaque",
+        "address": "Toronto",
         "types": [
-            "local_government_office",
-            "general_contractor",
             "point_of_interest",
             "establishment"
-        ]
+        ],
+        "rating": 4,
+        "user_ratings_total": 2
+    },
+    {
+        "name": "Canoe Landing Playground",
+        "address": "95 Fort York Blvd, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 2
+    },
+    {
+        "name": "Athletics and Wellness Centre",
+        "address": "6 Elm Ave, Toronto",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Stanley Park",
+        "address": "890 King St W, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 1174
+    },
+    {
+        "name": "Biscuit Lane",
+        "address": "657 A Yonge St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 5,
+        "user_ratings_total": 1
+    },
+    {
+        "name": "Alexandra Park Splash Pad & Playground",
+        "address": "Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 3.6,
+        "user_ratings_total": 7
+    },
+    {
+        "name": "Winchester Square Park",
+        "address": "474 Ontario St, Toronto",
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 57
+    },
+    {
+        "name": "Taddle Creek Park Playground",
+        "address": "73 Lowther Ave, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "School Lane",
+        "address": "95 Wood St, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Little Norway Park",
+        "address": "659 Queens Quay W, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 1244
+    },
+    {
+        "name": "THE CAR",
+        "address": "15 Annex Ln, Toronto",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": null,
+        "user_ratings_total": null
+    },
+    {
+        "name": "Sonya's Parkette",
+        "address": "63 Oxford St, Toronto",
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.1,
+        "user_ratings_total": 24
+    },
+    {
+        "name": "Roundhouse Park",
+        "address": "255 Bremner Blvd, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 5315
+    },
+    {
+        "name": "David Crombie Park",
+        "address": "131 The Esplanade, Toronto",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "rating": 4.3,
+        "user_ratings_total": 836
     }
 ]

@@ -25,8 +25,10 @@ class Main:
         places_info = [{
             "name": place.get("name"), 
             "address": place.get("vicinity"),
-            "types": place.get("types")
-        }for place in places_nearby]
+            "types": place.get("types"),
+            "rating": place.get("rating"),
+            "user_ratings_total": place.get("user_ratings_total")
+        } for place in places_nearby]
         
         with open('places_nearby.json', 'w') as f:
             json.dump(places_info, f, indent=4)
