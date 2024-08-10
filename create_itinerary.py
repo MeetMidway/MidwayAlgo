@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from google.api_core.exceptions import InternalServerError
 
 load_dotenv()
-gemini_api_key = "PUT KEY HERE ILL FIGURE OUT THE ENV FILE LATER"
+gemini_api_key = ""
 
 gai.configure(api_key=gemini_api_key)
 model = gai.GenerativeModel('gemini-1.5-pro-latest')

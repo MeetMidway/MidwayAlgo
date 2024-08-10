@@ -2,7 +2,7 @@ import google.generativeai as gai
 import json
 import os
 
-gai.configure(api_key="PUT KEY HERE ILL FIGURE OUT THE ENV FILE LATER")
+gai.configure(api_key="")
 model = gai.GenerativeModel('gemini-1.5-pro-latest')
 
 # Collect user preferences

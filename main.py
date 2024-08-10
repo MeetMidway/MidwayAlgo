@@ -27,7 +27,8 @@ class Main:
             "address": place.get("vicinity"),
             "types": place.get("types"),
             "rating": place.get("rating"),
-            "user_ratings_total": place.get("user_ratings_total")
+            "user_ratings_total": place.get("user_ratings_total"),
+            "photo_url": place.get("photo_url")
         } for place in places_nearby]
         
         with open('places_nearby.json', 'w') as f:
